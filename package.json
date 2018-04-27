@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenkumarGitHub/MEAN-Stack-With-Angular2-NvBlog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenkumarGitHub/MEAN-Stack-With-Angular2-NvBlog/issues"
+  },
+  "homepage": "https://github.com/NaveenkumarGitHub/MEAN-Stack-With-Angular2-NvBlog#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^4.11.1"
+  }
+}
